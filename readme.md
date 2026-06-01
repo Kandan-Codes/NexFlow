@@ -29,7 +29,7 @@ The application supports:
 | Data Storage | In-memory repository |
 | Entry Point | `ThiranXApplication.java` |
 | Package Root | `com.aurora.nexflow` |
-| Version | 0.0.1 |
+| Version | 1.0.0 |
 
 ---
 
